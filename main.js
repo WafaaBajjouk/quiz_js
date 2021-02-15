@@ -105,8 +105,8 @@ const questions = [
   {
     question: 'One rabbit saw 6 elephants while going towards River. Every elephant saw 2 monkeys are going towards river. Every monkey holds one tortoice in their hands.How many animals are going towards the river?',
     answers: [
-      { text: '5', correct: false },
-      { text: '8', correct: true }
+      { text: '8', correct: false },
+      { text: '5', correct: true }
     ]
   }
 ]
